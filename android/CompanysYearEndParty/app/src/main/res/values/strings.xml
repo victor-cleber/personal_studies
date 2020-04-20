@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Company\'s Year End Party</string>
+    <string name="days_left_for_the_end_of_the_year">Days left for the end of the year:</string>
+    <string name="are_you_going_to_participate">Are you going to participate?</string>
+    <string name="days">days</string>
+    <string name="not_confirmed">Not Confirmed</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>
