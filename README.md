@@ -25,7 +25,7 @@ Included are codes developed during my free time to implement new technologies o
 | Folder                         | Description                                              |
 | :----------------------------- | :------------------------------------------------------- |
 | [Python](python/)              | Projects developed using Python language                 |
-| [Android](Android/)            | Projects developed using the Android platform            |
+| [Android](android/)            | Projects developed using the Android platform            |
 | [C#](csharp/)                  | Projects developed using C# language                     |
 | [HTML, CSS, JS](html_css_js/)  | projetos desenvolvidos utilizando HTML, CSS and JS       |
 | [React](react/)                | projetos desenvolvidos utilizando React                  |
