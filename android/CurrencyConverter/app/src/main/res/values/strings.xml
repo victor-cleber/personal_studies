@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="what_is_the_value_in_reais">What is the value in reais?</string>
+    <string name="value_in_dolar">Value in  Dolar</string>
+    <string name="value_in_euro">Value in Euro</string>
+    <string name="calculate">CALCULATE</string>
+    <string name="enter_a_value">Plese, enter a value!</string>
+</resources>
